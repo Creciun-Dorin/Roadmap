@@ -1,0 +1,15 @@
+Hostingul se referă la serviciul prin care un site web sau o aplicație web este găzduită și făcută disponibilă pe internet. Un furnizor de servicii de hosting (gazdă) pune la dispoziție servere și infrastructură pentru a stoca și a asigura accesibilitatea site-urilor web.
+
+Există diferite tipuri de hosting disponibile, inclusiv:
+
+1. Shared Hosting (gazduire partajată): Aici mai multe site-uri web sunt găzduite pe același server fizic. Resursele serverului sunt împărțite între diferite site-uri, ceea ce face ca acest tip de hosting să fie mai accesibil din punct de vedere financiar.
+
+2. Virtual Private Server (VPS) Hosting (gazduire pe server virtual privat): În acest caz, un server fizic este împărțit în mai multe servere virtuale, fiecare având resurse dedicate și izolate. Acest tip de hosting oferă mai multă flexibilitate și control în comparație cu hostingul partajat.
+
+3. Dedicated Server Hosting (gazduire pe server dedicat): Aici un întreg server fizic este dedicat exclusiv unui singur site web sau aplicație. Acest tip de hosting oferă cele mai mari resurse și control total asupra serverului.
+
+4. Cloud Hosting (gazduire în cloud): Acest tip de hosting utilizează multiple servere interconectate pentru a furniza resurse scalabile și redundanță. Site-urile web sunt găzduite într-un mediu virtualizat și beneficiază de flexibilitate și scalabilitate sporită.
+
+5. Managed WordPress Hosting (gazduire WordPress gestionată): Acesta este un tip specializat de hosting optimizat pentru site-uri web construite pe platforma WordPress. Furnizorii de servicii de hosting WordPress oferă funcționalități suplimentare și suport specializat pentru site-urile WordPress.
+
+Furnizorii de servicii de hosting oferă, de asemenea, alte caracteristici și servicii, cum ar fi suport tehnic, securitate, backup-uri, certificat SSL etc. Este important să alegeți un furnizor de hosting de încredere și un plan care să se potrivească nevoilor și cerințelor specifice ale site-ului dvs. web sau aplicației.
