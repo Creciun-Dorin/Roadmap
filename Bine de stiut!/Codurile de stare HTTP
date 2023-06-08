@@ -1,0 +1,20 @@
+Codurile de stare HTTP 
+Pentru marcarea succesului procesării cererilor de client, protocolul HTTP cunoaşte un număr mare de coduri de stare, care sunt împărţite în mai multe grupuri. În exemplul prezentat, serverul listează codul 200 în linia de stare, ceea ce înseamnă că cererea de client a fost procesată cu succes. Codul de stare este informaţia de bază, pe baza căreia clientul poate şti cum a decurs procesarea cererii trimise către server. Diferite grupuri de răspunsuri de stare, deseori denumite clase de stare, sunt:
+
+1xx – informaţii,
+2xx - execuţia cu succes a logicii de server la procesarea cererilor,
+3xx – redirecţionări (redirections),
+4xx - erori de client,
+5xx - erori de server,
+Unele dintre cele mai importante coduri de stare HTTP specifice sunt:
+
+200 (OK) - procesarea cererii a avut succes şi serverul a dat un răspuns,
+201 (Created) - procesarea cererii s-a realizat cu succes şi a fost creată o nouă resursă,
+301 (Moved Permanently) - resursa cerută a fost mutată la o nouă adresă,
+302 (Found) - resursa cerută a fost mutată temporar la altă adresă,
+304 (Not Modified) - resursa nu s-a schimbat de la accesul anterior; se foloseşte la stocarea în cache a resurselor, astfel încât clientul să poată verifica dacă există o versiune mai actualizată a resursei,
+400 (Bad Request) - serverul nu a înţeles cererea,
+401 (Unauthorized) - accesul la resursă necesită autorizare,
+403 (Forbidden) - accesul la resursă este interzis,
+404 (Not Found) - serverul nu poate găsi resursa cerută,
+500 Internal Server Error – eroare apărută pe server la procesarea cererii.
